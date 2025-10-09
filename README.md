@@ -23,4 +23,6 @@ If you encounter any issue when opening the file, please try extracting it using
 
 ---
 
+All source code and supplementary materials will be released in this repository after the review process is completed.  
+
 We sincerely appreciate your time and effort in reviewing our submission.
