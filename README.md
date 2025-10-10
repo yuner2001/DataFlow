@@ -6,7 +6,7 @@ Thank you very much for taking the time to review our work.
 This repository provides the supplementary materials accompanying our paper.
 
 The package includes:
-- Implementation details and additional code.
+- More details about our method and additional code.
 - Extended experimental results and ablation studies.
 - Theoretical proofs and analysis.
 
