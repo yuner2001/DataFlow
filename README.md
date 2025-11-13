@@ -21,8 +21,9 @@ Please use the **full title of the submitted paper** as the password, ensuring t
 
 If you encounter any issue when opening the file, please try extracting it using **7-Zip**, which correctly handles password-protected archives.
 
-> **💡 Tip**  
+> **🟢 Tip**  
 > Directly copying the article title from a PDF may inadvertently include an extra line break character, which can result in password errors.
+
 
 ---
 
